@@ -10,4 +10,5 @@ function palindrome(arry,callback){
     }
 }
 palindrome(arr,console.log);
-console.log("this file is for git test")
+console.log("this file is for git test");
+console.log("this file has been modified at 2020/5/16 5:24 pm");
